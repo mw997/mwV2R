@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="10;url=  ">
+    <title>Whatsapp Channel</title>
+
+            
+    <script>
+        function updateCountdown(seconds) {
+            document.getElementById('countdown').textContent = `Redirecting in ${seconds} seconds...`;
+        }
+
+        function redirect() {
+            window.location.href = 'https://whatsapp.com/channel/0029VaaE1LPICVftOC6XcI25';
+        }
+
+        const delay = 0;
+
+        setTimeout(redirect, delay);
+
+        let secondsLeft = Math.ceil(delay / 0);
+        const countdownInterval = setInterval(function() {
+            updateCountdown(secondsLeft);
+            secondsLeft--;
+
+            if (secondsLeft < 0) {
+                clearInterval(countdownInterval);
+            }
+        }, 10);
+    </script>
