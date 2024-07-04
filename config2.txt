@@ -1,0 +1,1 @@
+trojan://de821313-a860-432b-a910-cfe6989f4ad1@sfstore.tepllovpn.eu.org:443?mode=gun&security=tls&type=grpc&serviceName=trojan-grpc&sni=sfstore.tepllovpn.eu.org#SFVPN
