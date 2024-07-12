@@ -6,6 +6,14 @@ trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@104.17.3.81:80?security=none&type=
 
 vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2dvLXZpcHJleHQubXkuaWQiLCJpZCI6ImIyY2JlOWEyLTQ5ZjYtNDA2Mi05YjUxLTRkNmVhZTY2ODM4MyIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6Inh5eHggZWR1a2FzaSIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@104.17.3.81:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree edukasi
+
+
+vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2dvLXZpcHJleHQubXkuaWQiLCJpZCI6ImIyY2JlOWEyLTQ5ZjYtNDA2Mi05YjUxLTRkNmVhZTY2ODM4MyIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6Inh5eHggZWR1a2FzaSIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+
+
+
 
 
 
