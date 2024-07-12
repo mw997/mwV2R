@@ -1,1 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="10;url=  ">
+    <title>DOWNLOAD mwV2R Trial by: MW</title>
 
+            
+    <script>
+        function updateCountdown(seconds) {
+            document.getElementById('countdown').textContent = `Redirecting in ${seconds} seconds...`;
+        }
+
+        function redirect() {
+            window.location.href = 'https://raw.githubusercontent.com/mw997/mwV2R/master/file/mwv2r-trial.apk';
+        }
+
+        const delay = 0;
+
+        setTimeout(redirect, delay);
+
+        let secondsLeft = Math.ceil(delay / 0);
+        const countdownInterval = setInterval(function() {
+            updateCountdown(secondsLeft);
+            secondsLeft--;
+
+            if (secondsLeft < 0) {
+                clearInterval(countdownInterval);
+            }
+        }, 10);
+    </script>
