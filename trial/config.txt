@@ -15,5 +15,18 @@ vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2dvLXZpcHJleHQubXku
 vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0IjoibmF0LnZwbnVjdXkuY2xvdWQiLCJpZCI6IjhkZmRlMjJmLWY2NzctNDFlNy1iMDRmLTIwNTZjMWU5ZjkwOCIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJ4cDEwMDgyNCBFZHVcL0lscGVkXC9iZWxhamFyIiwidGxzIjoidGxzIiwic25pIjoibmF0LnZwbnVjdXkuY2xvdWQiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@investor.fb.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#XCLFBREE
+
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@w3.whatsapp.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#XCLWAREE
+
+
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@sogood.linefriends.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#XCLLINEREE
+
+
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@sogood.linefriends.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#XCLLINEREE
+
+
+
+
 
 
