@@ -1,29 +1,38 @@
-vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0IjoiaWQtaGVyemEubWFkZXdnbi5ldS5vcmciLCJpZCI6ImI2ZDFiOGY1LWIwNjMtNGMwZS04NjBmLTFiNjJjMDNmZmU3YyIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IlRyaWFsLVZNIDIyLjEwIGVkdSIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+------ USER TRIAL . Config by MWProject -----
 
-vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2ctZG8udGVwbGxvdnBuLmV1Lm9yZyIsImlkIjoiNmRhMTdlNzEtYzZiYS00ZWVmLWEzNWMtODUwNzcyOWZiZmY1IiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiU0YgZWR1IiwidGxzIjoibm9uZSIsInNuaSI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@104.17.3.81:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree edukasi
-
-vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2dvLXZpcHJleHQubXkuaWQiLCJpZCI6ImIyY2JlOWEyLTQ5ZjYtNDA2Mi05YjUxLTRkNmVhZTY2ODM4MyIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6Inh5eHggZWR1a2FzaSIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@104.17.3.81:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree edukasi
+CODE (( TRIAL ))...........
 
 
-vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2dvLXZpcHJleHQubXkuaWQiLCJpZCI6ImIyY2JlOWEyLTQ5ZjYtNDA2Mi05YjUxLTRkNmVhZTY2ODM4MyIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6Inh5eHggZWR1a2FzaSIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+TITLE :
+
+trojan://pass@address:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#TRIAL Free: Premium Users.
 
 
-vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0IjoibmF0LnZwbnVjdXkuY2xvdWQiLCJpZCI6IjhkZmRlMjJmLWY2NzctNDFlNy1iMDRmLTIwNTZjMWU5ZjkwOCIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJ4cDEwMDgyNCBFZHVcL0lscGVkXC9iZWxhamFyIiwidGxzIjoidGxzIiwic25pIjoibmF0LnZwbnVjdXkuY2xvdWQiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+............ Text diatas Tidak diedit. ......
+isi config dibawah ini:
 
 
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@investor.fb.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#XCLFBREE
-
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@w3.whatsapp.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#XCLWAREE
 
 
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@sogood.linefriends.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#XCLLINEREE
+vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2dvLXZpcHJleHQubXkuaWQiLCJpZCI6ImIyY2JlOWEyLTQ5ZjYtNDA2Mi05YjUxLTRkNmVhZTY2ODM4MyIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6Inh5eHg6MTA0WDM4MTpFRFV8aUxQRUQiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@104.17.3.81:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#|ree:10417381:EDU|iLPED
 
 
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@sogood.linefriends.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#XCLLINEREE
+vmess://eyJhZGQiOiJxdWl6LmludC52aWRpby5jb20iLCJhaWQiOiIwIiwiaG9zdCI6InNnby12aXByZXh0Lm15LmlkIiwiaWQiOiJiMmNiZTlhMi00OWY2LTQwNjItOWI1MS00ZDZlYWU2NjgzODMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJ4eXh4OnF1aXouaW50LnZkLmNvbSIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@quiz.int.vidio.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree:quiz.int.vd.com
+
+
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@quiz.staging.vidio.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree:quiz.stag.vd.com
+
+
+vmess://eyJhZGQiOiJxdWl6LnN0YWdpbmcudmlkaW8uY29tIiwiYWlkIjoiMCIsImhvc3QiOiJzZ28tdmlwcmV4dC5teS5pZCIsImlkIjoiYjJjYmU5YTItNDlmNi00MDYyLTliNTEtNGQ2ZWFlNjY4MzgzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoieHl4eDpxdWl6LnN0LnZkLmNvbSIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+
+
+
 
 
 
