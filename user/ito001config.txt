@@ -20,5 +20,5 @@ trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@104.17.3.81:80?security=none&type=
 
 vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0IjoibmF0LnZwbnVjdXkuY2xvdWQiLCJpZCI6IjhkZmRlMjJmLWY2NzctNDFlNy1iMDRmLTIwNTZjMWU5ZjkwOCIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJ4cDEwMDgyNCBFZHVcL0lscGVkXC9iZWxhamFyIiwidGxzIjoidGxzIiwic25pIjoibmF0LnZwbnVjdXkuY2xvdWQiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@cdn.appsflyer.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: FF GAME
 
