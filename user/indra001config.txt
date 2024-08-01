@@ -1,4 +1,51 @@
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@104.17.3.81:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#id user: indra001c
+USER: indra001 *********
+
+trojan://pass@bug:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#id user: indra001c
+
+#################
+MODE: Trial/GRATIS
+
+trojan://pass@bug:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#MODE: TRIAL/Gratis
+*****************************
+
+Dibawah ini CONFIGURATIONS:
+
+@
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@104.17.3.81:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: Edukasi v1
 
 
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@104.17.3.81:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: EDUKASI
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@www.udemy.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: Edukasi v2
+
+
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@support.udemy.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: Edukasi v3
+
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@edu.udemy.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: Edukasi v4
+
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@104.26.7.171:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: Edukasi v5/ ilped
+
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@gw.ruangguru.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: Edukasi v6
+
+
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@layanan.ruangguru.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: Edukasi v7
+
+
+trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@layanan.ruangguru.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#Hubungi Admin Untuk Pembayaran.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
