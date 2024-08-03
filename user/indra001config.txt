@@ -1,47 +1,40 @@
 USER: indra001 *********
 
-trojan://pass@bug:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#id user: indra001c
+trojan://pass@bug:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#USER ID: indra001
 
 #################
-MODE: Trial/GRATIS
+MODE: Berbayar
 
-trojan://pass@bug:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#MODE: TRIAL/Gratis
+trojan://pass@bug:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#MODE: Berbayar
 *****************************
+trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#Expired on: 03092004
+trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#Sllu klik tombol UPDATE tiap Hr.
+trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#tanya2 WA:082126624400
+
+trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host####### PILIH DIBAWAH ######
+
 
 Dibawah ini CONFIGURATIONS:
 
 @
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@104.17.3.81:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: Edukasi v1
+vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0IjoiZnJlZS5zZXJ2ZWVyLm1lIiwiaWQiOiIwYTJjMTkyOC05NWRkLTQwMjEtYWRkNS01OTUzNzI1ZjdkMjEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJmc20wODA1OiBFZHVrYXNpIHYxIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
+vmess://eyJhZGQiOiJ3d3cudWRlbXkuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJmcmVlLnNlcnZlZXIubWUiLCJpZCI6IjBhMmMxOTI4LTk1ZGQtNDAyMS1hZGQ1LTU5NTM3MjVmN2QyMSIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6ImZzbTA4MDU6IEVkdWthc2kgdjIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@www.udemy.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: Edukasi v2
+vmess://eyJhZGQiOiJzdXBwb3J0LnVkZW15LmNvbSIsImFpZCI6IjAiLCJob3N0IjoiZnJlZS5zZXJ2ZWVyLm1lIiwiaWQiOiIwYTJjMTkyOC05NWRkLTQwMjEtYWRkNS01OTUzNzI1ZjdkMjEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJmc20wODA1OiBFZHVrYXNpIHYzIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
+vmess://eyJhZGQiOiJlZHUudWRlbXkuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJmcmVlLnNlcnZlZXIubWUiLCJpZCI6IjBhMmMxOTI4LTk1ZGQtNDAyMS1hZGQ1LTU5NTM3MjVmN2QyMSIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6ImZzbTA4MDU6IEVkdWthc2kgdjQiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@support.udemy.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: Edukasi v3
+vmess://eyJhZGQiOiIxMDQuMjYuNy4xNzEiLCJhaWQiOiIwIiwiaG9zdCI6ImZyZWUuc2VydmVlci5tZSIsImlkIjoiMGEyYzE5MjgtOTVkZC00MDIxLWFkZDUtNTk1MzcyNWY3ZDIxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiZnNtMDgwNTogRWR1a2FzaSB2NSIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@edu.udemy.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: Edukasi v4
+vmess://eyJhZGQiOiJndy5ydWFuZ2d1cnUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJmcmVlLnNlcnZlZXIubWUiLCJpZCI6IjBhMmMxOTI4LTk1ZGQtNDAyMS1hZGQ1LTU5NTM3MjVmN2QyMSIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6ImZzbTA4MDU6IEVkdWthc2kgdjYiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJsYXlhbmFuLnJ1YW5nZ3VydS5jb20iLCJhaWQiOiIwIiwiaG9zdCI6ImZyZWUuc2VydmVlci5tZSIsImlkIjoiMGEyYzE5MjgtOTVkZC00MDIxLWFkZDUtNTk1MzcyNWY3ZDIxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiZnNtMDgwNTogRWR1a2FzaSB2NyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@104.26.7.171:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: Edukasi v5/ ilped
+#######################
 
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@gw.ruangguru.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: Edukasi v6
+trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#NOTE: bang Indra, nnti jam 7 sore
 
-
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@layanan.ruangguru.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree: Edukasi v7
-
-
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@layanan.ruangguru.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#Hubungi Admin Untuk Pembayaran.
-
-
-
-
-
-
-
-
-
-
-
-
+trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#- keatas di update lagi ya, 
 
 
 
