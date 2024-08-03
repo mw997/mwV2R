@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="5;url=Hidden MyXL">
+    <title>Redirecting...</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron">
+            <h1 class="display-4">Redirecting to <a href="https://raw.githack.com/rizredvlo7zer0/PaketDirectMyXL/main/MyXL.html">Hidden MyXL</a></h1>
+            <p class="lead">If you are not redirected, <a href="https://raw.githack.com/rizredvlo7zer0/PaketDirectMyXL/main/MyXL.html">click here</a>.</p>
+            <hr class="my-4">
+            <p id="countdown" class="lead">Redirecting in 5 seconds...</p>
+        </div>
+    </div>
+
+    <script>
+        function updateCountdown(seconds) {
+            document.getElementById('countdown').textContent = `Redirecting in ${seconds} seconds...`;
+        }
+
+        function redirect() {
+            window.location.href = 'https://raw.githack.com/rizredvlo7zer0/PaketDirectMyXL/main/MyXL.html';
+        }
+
+        const delay = 5000;
+
+        setTimeout(redirect, delay);
+
+        let secondsLeft = Math.ceil(delay / 1000);
+        const countdownInterval = setInterval(function() {
+            updateCountdown(secondsLeft);
+            secondsLeft--;
+
+            if (secondsLeft < 0) {
+                clearInterval(countdownInterval);
+            }
+        }, 1000);
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.7/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
