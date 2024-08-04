@@ -1,6 +1,6 @@
 USER ITO . VERSI 001. FILE CONFIG.txt
 
-trojan://pass@address:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#User ID: ito001mw
+trojan://pass@address:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#User ID: ito001
 
 
 file config bottom ##############
@@ -11,9 +11,7 @@ file config bottom ##############
 #
 
 
+vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2cyLnpldmVzaC5ob3N0IiwiaWQiOiI0MDc5YTM1Zi1mZjQ4LTQwZTEtOGZhOC00MzVkZWQxMmY4ZjciLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoic2czOTI0djEgRURVS0FTSSIsInRscyI6InRscyIsInNuaSI6InNnMi56ZXZlc2guaG9zdCIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-
-
-vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0IjoiZnJlZS5zZXJ2ZWVyLm1lIiwiaWQiOiIwYTJjMTkyOC05NWRkLTQwMjEtYWRkNS01OTUzNzI1ZjdkMjEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJmc20wODA1OiBFZHVrYXNpIHYxIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 
