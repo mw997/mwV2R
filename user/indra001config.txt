@@ -1,42 +1,31 @@
-USER: indra001 *********
+USER ID: INDRA001. Cv1. JATIM.
+##############################
 
-trojan://pass@bug:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#USER ID: indra001
+trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#USER ID: Indra001✔
 
-#################
-MODE: Berbayar
+*********************************
+trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#🔵Xpired on: 03.09.24 🔴
 
-trojan://pass@bug:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#MODE: Berbayar
-*****************************
-trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#Expired on: 03092004
-trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#Sllu klik tombol UPDATE tiap Hr.
-trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#tanya2 WA:082126624400
+trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#wa.me/6282126624400
 
-trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host####### PILIH DIBAWAH ######
+trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#selalu klik UPDATE !!!
 
 
-Dibawah ini CONFIGURATIONS:
+******* ISI CONFIG ***********
 
-@
-vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0IjoiZnJlZS5zZXJ2ZWVyLm1lIiwiaWQiOiIwYTJjMTkyOC05NWRkLTQwMjEtYWRkNS01OTUzNzI1ZjdkMjEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJmc20wODA1OiBFZHVrYXNpIHYxIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://b8f85eef-7b8a-4325-9ad1-ad525dddeccb@104.17.3.81:80?security=none&encryption=none&headerType=none&type=ws&path=%252Fvless&host=google.com#Edukasi v1
 
-vmess://eyJhZGQiOiJ3d3cudWRlbXkuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJmcmVlLnNlcnZlZXIubWUiLCJpZCI6IjBhMmMxOTI4LTk1ZGQtNDAyMS1hZGQ1LTU5NTM3MjVmN2QyMSIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6ImZzbTA4MDU6IEVkdWthc2kgdjIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://b8f85eef-7b8a-4325-9ad1-ad525dddeccb@www.udemy.com:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fvless&sni=google.com&host=nusa.xensin.my.id#Edukasi v2
 
-vmess://eyJhZGQiOiJzdXBwb3J0LnVkZW15LmNvbSIsImFpZCI6IjAiLCJob3N0IjoiZnJlZS5zZXJ2ZWVyLm1lIiwiaWQiOiIwYTJjMTkyOC05NWRkLTQwMjEtYWRkNS01OTUzNzI1ZjdkMjEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJmc20wODA1OiBFZHVrYXNpIHYzIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://b8f85eef-7b8a-4325-9ad1-ad525dddeccb@support.udemy.com:80?security=none&encryption=none&headerType=none&type=ws&path=%252Fvless&host=google.com#Edukasi v3
 
-vmess://eyJhZGQiOiJlZHUudWRlbXkuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJmcmVlLnNlcnZlZXIubWUiLCJpZCI6IjBhMmMxOTI4LTk1ZGQtNDAyMS1hZGQ1LTU5NTM3MjVmN2QyMSIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6ImZzbTA4MDU6IEVkdWthc2kgdjQiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://b8f85eef-7b8a-4325-9ad1-ad525dddeccb@edu.udemy.com:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fvless&sni=google.com&host=nusa.xensin.my.id#Edukasi v4
 
-vmess://eyJhZGQiOiIxMDQuMjYuNy4xNzEiLCJhaWQiOiIwIiwiaG9zdCI6ImZyZWUuc2VydmVlci5tZSIsImlkIjoiMGEyYzE5MjgtOTVkZC00MDIxLWFkZDUtNTk1MzcyNWY3ZDIxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiZnNtMDgwNTogRWR1a2FzaSB2NSIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://b8f85eef-7b8a-4325-9ad1-ad525dddeccb@104.26.7.171:80?security=none&encryption=none&headerType=none&type=ws&path=%252Fvless&host=google.com#Edukasi v5
 
-vmess://eyJhZGQiOiJndy5ydWFuZ2d1cnUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJmcmVlLnNlcnZlZXIubWUiLCJpZCI6IjBhMmMxOTI4LTk1ZGQtNDAyMS1hZGQ1LTU5NTM3MjVmN2QyMSIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6ImZzbTA4MDU6IEVkdWthc2kgdjYiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJsYXlhbmFuLnJ1YW5nZ3VydS5jb20iLCJhaWQiOiIwIiwiaG9zdCI6ImZyZWUuc2VydmVlci5tZSIsImlkIjoiMGEyYzE5MjgtOTVkZC00MDIxLWFkZDUtNTk1MzcyNWY3ZDIxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiZnNtMDgwNTogRWR1a2FzaSB2NyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://b8f85eef-7b8a-4325-9ad1-ad525dddeccb@nusa.xensin.my.id:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fvless&sni=google.com&host=nusa.xensin.my.id#Edukasi v6.
 
-#######################
-
-trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#NOTE: bang Indra, nnti jam 7 sore
-
-trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#- keatas di update lagi ya, 
-
-
+vless://b8f85eef-7b8a-4325-9ad1-ad525dddeccb@nusa.xensin.my.id:80?security=none&encryption=none&headerType=none&type=ws&path=%252Fvless&host=google.com#Edukasi v7.
 
 
 
