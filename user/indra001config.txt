@@ -12,10 +12,11 @@ trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&
 
 
 ******* ISI CONFIG ***********
+vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2cyLnpldmVzaC5ob3N0IiwiaWQiOiI0MDc5YTM1Zi1mZjQ4LTQwZTEtOGZhOC00MzVkZWQxMmY4ZjciLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJFZHVrYXNpIFYxIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-vless://b8f85eef-7b8a-4325-9ad1-ad525dddeccb@104.17.3.81:80?security=none&encryption=none&headerType=none&type=ws&path=%252Fvless&host=google.com#Edukasi v1
 
-vless://b8f85eef-7b8a-4325-9ad1-ad525dddeccb@www.udemy.com:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fvless&sni=google.com&host=nusa.xensin.my.id#Edukasi v2
+vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2cyLnpldmVzaC5ob3N0IiwiaWQiOiI0MDc5YTM1Zi1mZjQ4LTQwZTEtOGZhOC00MzVkZWQxMmY4ZjciLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiRWR1a2FzaSBWMiIsInRscyI6InRscyIsInNuaSI6InNnMi56ZXZlc2guaG9zdCIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
 
 vless://b8f85eef-7b8a-4325-9ad1-ad525dddeccb@support.udemy.com:80?security=none&encryption=none&headerType=none&type=ws&path=%252Fvless&host=google.com#Edukasi v3
 
