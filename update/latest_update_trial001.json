@@ -1,6 +1,6 @@
 {
-	"versionCode": 3840,
-	"versionName": "3.8.40",
+	"versionCode": 1000595,
+	"versionName": "1.0.2",
 	"url": "https://raw.githubusercontent.com/mw997/HomeSafe/main/HomeSafe.apk",
 	"md5": "d00fbe49cae7aa7bebfaa80400746ece",
 	"size": 0,
@@ -20,7 +20,7 @@
 		"vi": "Sửa lỗi và cải tiến khác",
 		"zh": "错误修复和其他改进"
 	},
-	"forceVersionCode": 3812,
+	"forceVersionCode": 1000595,
 	"isIgnorable": true,
 	"config": {
 		"key1": "val1",
