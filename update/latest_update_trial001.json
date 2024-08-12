@@ -1,0 +1,29 @@
+{
+	"versionCode": 3840,
+	"versionName": "3.8.40",
+	"url": "https://raw.githubusercontent.com/mw997/HomeSafe/main/HomeSafe.apk",
+	"md5": "d00fbe49cae7aa7bebfaa80400746ece",
+	"size": 0,
+	"updateContent": {
+		"en": "Bug fixes and other improvements, perubahan nada peringatan menjadi notif Dana masuk.",
+		"ar": "إصلاحات الشوائب والتحسينات الأخرى",
+		"de": "Fehlerbehebungen und andere Verbesserungen",
+		"es": "Corrección de errores y otras mejoras",
+		"fr": "Corrections de bugs et autres améliorations",
+		"it": "Correzioni di bug e altri miglioramenti",
+		"ja": "バグ修正とその他の改善",
+		"ko": "버그 수정 및 기타 개선 사항",
+		"pl": "Poprawki błędów i inne ulepszenia",
+		"pt": "Correções de bugs e outras melhorias",
+		"ru": "Исправлены ошибки и другие улучшения",
+		"tr": "Hata düzeltmeleri ve diğer iyileştirmeler",
+		"vi": "Sửa lỗi và cải tiến khác",
+		"zh": "错误修复和其他改进"
+	},
+	"forceVersionCode": 3812,
+	"isIgnorable": true,
+	"config": {
+		"key1": "val1",
+		"key2": "val2"
+	}
+}
