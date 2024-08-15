@@ -1,41 +1,11 @@
------- USER TRIAL . Config by MWProject -----
+vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0IjoiaWQtaGVyemEubWFkZXdnbi5ldS5vcmciLCJpZCI6Ijk0MTk5NmZkLWJhOGEtNDgxOC1iMWRjLTA1ODBiMzc4NjFmOCIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IlRyaWFsLVZNIGVkdWthc2VoIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-CODE (( TRIAL ))...........
-
-
-TITLE :
-
-trojan://pass@address:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#TRIAL Free: Premium Users.
+trojan://b80112bb-628b-45d0-a2dc-1f8fe7a80aaa@104.17.3.81:443?security=tls&type=ws&headerType=none&path=%252FYOURPATH%252Ftrojan-ws&sni=id-neva.tepllovpn.eu.org&host=id-neva.tepllovpn.eu.org#TPVPN EDUKASEH
 
 
 
-............ Text diatas Tidak diedit. ......
-isi config dibawah ini:
+vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoib3JhY2xlMi50bXR1bm5lbHMudGVjaCIsImlkIjoiMjkxODc3YTYtZjY3Yi00NDgzLWFiYmQtNzc5NmY0MDhmZDQxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9taW5hdHdpY2VjYW50aWsiLCJwb3J0IjoiODAiLCJwcyI6IkVkdWthc2VoIG1hc2VoIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 
 
-
-vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2dvLXZpcHJleHQubXkuaWQiLCJpZCI6ImIyY2JlOWEyLTQ5ZjYtNDA2Mi05YjUxLTRkNmVhZTY2ODM4MyIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6Inh5eHg6MTA0WDM4MTpFRFV8aUxQRUQiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@104.17.3.81:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#|ree:10417381:EDU|iLPED
-
-
-vmess://eyJhZGQiOiJxdWl6LmludC52aWRpby5jb20iLCJhaWQiOiIwIiwiaG9zdCI6InNnby12aXByZXh0Lm15LmlkIiwiaWQiOiJiMmNiZTlhMi00OWY2LTQwNjItOWI1MS00ZDZlYWU2NjgzODMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJ4eXh4OnF1aXouaW50LnZkLmNvbSIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@quiz.int.vidio.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree:quiz.int.vd.com
-
-
-trojan://c52d1907-3ef4-4964-a7eb-66c8a782cf72@quiz.staging.vidio.com:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=sg.tepllovpn.eu.org#ree:quiz.stag.vd.com
-
-
-vmess://eyJhZGQiOiJxdWl6LnN0YWdpbmcudmlkaW8uY29tIiwiYWlkIjoiMCIsImhvc3QiOiJzZ28tdmlwcmV4dC5teS5pZCIsImlkIjoiYjJjYmU5YTItNDlmNi00MDYyLTliNTEtNGQ2ZWFlNjY4MzgzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoieHl4eDpxdWl6LnN0LnZkLmNvbSIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-
-
-
-
-
-
-
-
-
+vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0IjoiaWQtaGVyemEubWFkZXdnbi5ldS5vcmciLCJpZCI6IjkxNjFkZjg5LWNhODctNGVmZC05MDUxLTc1OTdmZWQyMzZlZSIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6ImFuamF5eSBlZHVrYXNlaCIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
