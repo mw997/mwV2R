@@ -1,7 +1,7 @@
 [
     {
         "channel": {
-            "username": "google.com",
+            "link": "google.com",
             "title": "judul",
             "logo": "linklogo.jpg"
         },
@@ -12,7 +12,7 @@
     },
     {
         "channel": {
-            "username": "link",
+            "link": "sfile.mobi",
             "title": "judul",
             "logo": "https://raw.logo.jpg"
         },
