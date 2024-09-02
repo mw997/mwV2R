@@ -1,0 +1,24 @@
+[
+    {
+        "channel": {
+            "username": "google.com",
+            "title": "judul",
+            "logo": "linklogo.jpg"
+        },
+        "type": "vless",
+        "config": "V2RAY",
+        "ping": 9.09,
+        "time": "2024-08-23 13:46:47"
+    },
+    {
+        "channel": {
+            "username": "link",
+            "title": "judul",
+            "logo": "https://raw.logo.jpg"
+        },
+        "type": "vless",
+        "config": "vless://pass@bug:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fvmess&sni=sni&host=host#MWP",
+        "ping": 418.88,
+        "time": "2023-12-09 13:35:24"
+    }
+]
