@@ -6,10 +6,9 @@ trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&
 *********************************
 trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#🔵Xpired on: 03.09.24 🔴
 
-trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#wa.me/6282126624400
+vless://pass@bug:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fvmess&sni=sni&host=host#wa:087762787082
 
-trojan://pass@bg:80?security=none&type=ws&headerType=none&path=%252Ftrojan-ntls&host=host#selalu klik UPDATE !!!
-
+vless://pass@bug:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fvmess&sni=sni&host=host#off? wa saja.
 
 ******* ISI CONFIG ***********
 
