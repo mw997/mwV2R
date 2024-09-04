@@ -8,11 +8,11 @@
         "type": "vless",
         "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.3.81:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fa.ssll.gay%253A2053%252Ftwitterfreecodesfp&sni=dawn-meadow-0078.mahpuddevz.workers.dev&host=dawn-meadow-0078.mahpuddevz.workers.dev#Edukasi CADANGAN V1",
         "ping": 9.09,
-        "time": "2024-08-23 13:46:47"
+        "time": "2025-08-23 13:46:47"
     },
     {
         "channel": {
-            "link": "sfile.mobi",
+            "username": "sfile.mobi",
             "title": "judul",
             "logo": "https://raw.logo.jpg"
         },
