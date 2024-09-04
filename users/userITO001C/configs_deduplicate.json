@@ -1,12 +1,12 @@
 [
     {
         "channel": {
-            "link": "google.com",
+            "username": "google.com",
             "title": "judul",
             "logo": "linklogo.jpg"
         },
         "type": "vless",
-        "config": "V2RAY",
+        "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.3.81:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fa.ssll.gay%253A2053%252Ftwitterfreecodesfp&sni=dawn-meadow-0078.mahpuddevz.workers.dev&host=dawn-meadow-0078.mahpuddevz.workers.dev#Edukasi CADANGAN V1",
         "ping": 9.09,
         "time": "2024-08-23 13:46:47"
     },
