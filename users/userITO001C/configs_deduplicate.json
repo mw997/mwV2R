@@ -17,8 +17,8 @@
             "logo": "https://raw.logo.jpg"
         },
         "type": "vless",
-        "config": "vless://pass@bug:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fvmess&sni=sni&host=host#MWP",
+        "config": "vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoib3JhY2xlLnRtdHVubmVscy50ZWNoIiwiaWQiOiI3MGQ5ZDA1YS1hYjc2LTQwZjktODdkNS1iMjBiYTM0OTgxZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2FkLjAyIiwidGxzIjoidGxzIiwic25pIjoib3JhY2xlLnRtdHVubmVscy50ZWNoIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
         "ping": 418.88,
-        "time": "2023-12-09 13:35:24"
+        "time": "2024-12-09 13:35:24"
     }
 ]
