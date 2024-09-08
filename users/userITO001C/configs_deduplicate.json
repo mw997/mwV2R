@@ -2,22 +2,22 @@
     {
         "channel": {
             "username": "google.com",
-            "title": "judul",
+            "title": "Edukasi",
             "logo": "linklogo.jpg"
         },
         "type": "vless",
-        "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.3.81:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fa.ssll.gay%253A2053%252Ftwitterfreecodesfp&sni=dawn-meadow-0078.mahpuddevz.workers.dev&host=dawn-meadow-0078.mahpuddevz.workers.dev#Edukasi CADANGAN V1",
+        "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.3.81:80?host=a.ssll.gay&type=ws&security=none&path=%252F%253Fed&encryption=none#update%406%2F9%2F24%3AEdukasi",
         "ping": 9.09,
         "time": "2025-08-23 13:46:47"
     },
     {
         "channel": {
             "username": "sfile.mobi",
-            "title": "judul",
+            "title": "Edukasi",
             "logo": "https://raw.logo.jpg"
         },
-        "type": "vless",
-        "config": "vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoib3JhY2xlLnRtdHVubmVscy50ZWNoIiwiaWQiOiI3MGQ5ZDA1YS1hYjc2LTQwZjktODdkNS1iMjBiYTM0OTgxZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2FkLjAyIiwidGxzIjoidGxzIiwic25pIjoib3JhY2xlLnRtdHVubmVscy50ZWNoIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+        "type": "vmess",
+        "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.3.81:80?host=a.ssll.gay&type=ws&security=none&path=%252F%253Fed&encryption=none#update%406%2F9%2F24%3AEdukasi",
         "ping": 418.88,
         "time": "2024-12-09 13:35:24"
     }
