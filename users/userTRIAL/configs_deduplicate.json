@@ -20,5 +20,16 @@
         "config": "vless://pass@bug:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fvmess&sni=sni&host=host#MWP",
         "ping": 418.88,
         "time": "2024-12-09 13:35:24"
+    },
+    {
+        "channel": {
+            "telegram": "sfile.mobir",
+            "title": "judul",
+            "logo": "https://raw.logo.jpg"
+        },
+        "type": "vless",
+        "config": "vless://pass@bug:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fvmess&sni=sni&host=host#MWP",
+        "ping": 418.88,
+        "time": "2024-12-09 13:35:24"
     }
 ]
